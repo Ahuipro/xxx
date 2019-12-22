@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65f1800e-b7f4-47b1-8dff-0015b5f9546b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/222.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/333.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/xxx.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +80,7 @@
       <workItem from="1576887680528" duration="228000" />
       <workItem from="1576895799730" duration="2056000" />
       <workItem from="1576977884692" duration="392000" />
+      <workItem from="1577014934274" duration="506000" />
     </task>
     <task id="LOCAL-00001" summary="README.md 添加在线访问链接">
       <created>1576813080424</created>
@@ -90,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576813080425</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0.0.1-牛皮!">
+      <created>1577015041730</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577015041730</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,13 +147,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="README.md 添加在线访问链接" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md 添加在线访问链接" />
+    <MESSAGE value="0.0.1-牛皮!" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.1-牛皮!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="31" y="25" width="1747" height="995" key="CommitChangelistDialog2" timestamp="1577015007700">
+    <state x="31" y="25" width="1747" height="995" key="CommitChangelistDialog2" timestamp="1577015447944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="31" y="25" width="1747" height="995" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577015007700" />
+    <state x="31" y="25" width="1747" height="995" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577015447944" />
     <state x="128" y="88" key="DiffContextDialog" timestamp="1577014962162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -156,10 +163,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="922" y="173" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576811764049" />
-    <state x="524" y="395" key="Vcs.Push.Dialog.v2" timestamp="1576813257857">
+    <state x="524" y="395" key="Vcs.Push.Dialog.v2" timestamp="1577015057163">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="524" y="395" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576813257857" />
+    <state x="524" y="395" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577015057163" />
     <state x="383" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576813202919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
