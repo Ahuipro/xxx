@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+#a1{
+    color: #ff7f50;
+}
+body{
+    background-image: url("../img/timg.jpg");
+    background-size: cover;
+}
